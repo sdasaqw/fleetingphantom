@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class time {
 
 
-
+        //?
         static int a =0;
         static int A =0;
         static int B =0;
